@@ -1,4 +1,4 @@
-# Appications
+# Applications
 
 ## Simple Queue Service (SQS)
 
